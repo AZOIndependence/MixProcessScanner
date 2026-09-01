@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mix Process Scanner</string>
+    <string name="server_notification_title">Mix Process Scanner Server</string>
+    <string name="server_notification_text">KTOR/Netty foreground service is running.</string>
+	<string name="title_main">Mix Process Scanner</string>
+	<string name="subtitle_main_menu">Main Menu</string>
+	<string name="subtitle_login_logout">Login/Logout</string>
+	<string name="subtitle_login">Login</string>
+	<string name="subtitle_device_info">Device Info</string>
+	<string name="subtitle_container">Container</string>
+	<string name="subtitle_container_info">Container Info</string>
+	<string name="subtitle_container_edit">Container Edit</string>
+	<string name="subtitle_picking_orders">Picking Orders</string>
+	<string name="subtitle_refilling">Refilling</string>
+	<string name="subtitle_scanning">Scanning</string>
+	<string name="subtitle_comm_log">Comm Log</string>
+</resources>

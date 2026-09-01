@@ -1,0 +1,7 @@
+<resources>
+    <color name="blue_button">#1565C0</color>
+    <color name="orange_button">#FFA726</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="green_box">#66BB6A</color>
+</resources>
